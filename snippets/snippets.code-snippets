@@ -3,7 +3,7 @@
         "prefix": "crcc",
         "body": [
             "import React, { PureComponent } from 'react'",
-            "import { CommonTable } from '@fui/bs'",
+            "import { CommonTable } from '@fpp-comps'",
             "",
             "export default class Example extends PureComponent {",
             "  tableRef = React.createRef()",
@@ -70,7 +70,7 @@
         "prefix": "chooks",
         "body": [
             "import React, { useRef } from 'react'",
-            "import { CommonTable } from '@fui/bs'",
+            "import { CommonTable } from '@fpp-comps'",
             "",
             "const Example = () => {",
             "  const tableRef = useRef(null)",

@@ -1,9 +1,4 @@
-# Change Log
+## CHANGELOG
+### 1.0.0
 
-All notable changes to the "commonTable-snippets" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- 加上 `crcc` 和 `chooks` 两个代码片段

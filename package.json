@@ -3,8 +3,9 @@
     "displayName": "commonTable-snippets",
     "publisher": "jackywq",
     "description": "react snippets",
-    "version": "0.0.3",
+    "version": "0.0.1",
     "icon": "images/logo.png",
+    "repository": "https://github.com/jackywq/commonTable-snippets.git",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -30,5 +31,6 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
-    }
+    },
+    "dependencies": {}
 }
